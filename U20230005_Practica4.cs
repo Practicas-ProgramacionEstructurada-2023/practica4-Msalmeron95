@@ -83,7 +83,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
                         }
                         break;
                     default:
-                        Console.WriteLine("\nOpcion invalida, intente de nuevo.\n");
+                        Console.WriteLine("\nOpcion ingresada es invalida, intente de nuevo.\n");
                         break;
                 }
                 
